@@ -1,1 +1,2 @@
 Hello everyone
+Testing new commit message editor
